@@ -1,1 +1,1 @@
-Just a Typescript and Webpack emplty project
+Just a Typescript and Webpack empty project
